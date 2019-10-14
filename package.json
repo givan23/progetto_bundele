@@ -1,0 +1,11 @@
+{
+  "name": "progetto_bundole",
+  "version": "1.0.0",
+  "description": "progetto_bundle",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,2 @@
+export const INIT_EDITORIAL_CONTEXT= "INIT_EDITORIAL_CONTEXT";
+export const ONE = 1;
